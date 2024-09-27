@@ -1,0 +1,77 @@
+button {
+    position: relative;
+    left: 790px;
+    bottom: 43px;
+    border-radius: 120px;
+}
+input {
+    position: relative;
+    left: 780px;
+    bottom: 40px;
+    border-radius: 10px;
+}
+video {
+    position: relative;
+    bottom: 38px;
+    right: 60px;
+    width: 1200px;
+    height: 1880px;
+}
+h1 {
+    position: relative;
+    bottom: 1880px;
+    left: 280px;
+}
+button1 {
+    position: relative;
+    bottom: 1870px;
+    left: 500px;
+    background-color: blue;
+    padding: 10px;
+    border-radius: 10px;
+}
+h {
+    font-size:xx-large;
+    font-weight: 900;
+    position: relative;
+    left: 310px;
+    bottom: 80px;
+    color: brown;
+    text-decoration: dashed black underline;
+}
+h2 {
+    font-size: x-large;
+    position: relative;
+    left: 452px;
+    bottom: 60px;
+    text-decoration: dotted black underline;
+}
+#container {
+    position: absolute;
+    left: 120px;
+}
+button3 {
+    position: relative;
+    right: 290px;
+    top: 10px;
+    background-color: lightblue;
+    padding: 10px;
+    border-radius: 10px;
+}
+button4 {
+    position: relative;
+    right: 660px;
+    top: 10px;
+    background-color: lightblue;
+    padding: 10px;
+    border-radius: 10px;
+}
+button5 {
+   background-color: lightblue;
+   border-radius: 10%;
+   position: relative;
+   right: 160px;
+   padding: 7.5px;
+   top: 10px;
+   
+}

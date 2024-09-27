@@ -1,0 +1,44 @@
+body{
+    background-color: black;
+}
+h {
+    font-size: xx-large;
+    font-weight: 900;
+    position: relative;
+    left: 450px;
+    text-decoration: dashed brown underline;
+}
+
+h2 {
+    color: brown;
+    text-decoration: dotted white underline;
+}
+img {
+    height: 203px;
+    width: 250px;
+    position: relative;
+    top: 28px;
+    margin: 13px;
+}
+button6 {
+    background-color: blue;
+    padding: 8px;
+    border-radius: 10px;
+    position: relative;
+    top: 9px;
+}
+#card-text{
+    color: white;
+}
+button7 {
+    color: white;
+    background-color: blue;
+    padding: 8px;
+    border-radius: 10px;
+}
+button8 {
+    color: white;
+    background-color: blue;
+    padding: 8px;
+    border-radius: 10%;
+}

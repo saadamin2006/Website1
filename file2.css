@@ -1,0 +1,62 @@
+body {
+    background-color: black;
+}
+h {
+    font-size: xx-large;
+    font-weight: 900;
+    position: relative;
+    left: 458px;
+    text-decoration: dashed brown underline;
+}
+h1 {
+    font-size: x-large;
+    font-weight: 700;
+    position: relative;
+    left: 540px;
+    text-decoration: dotted brown underline ;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+input{
+    position: relative;
+    left: 20px;
+}
+ol li {
+    color: white;
+}
+pre {
+    color: white;
+}
+h2 {
+    color: white;
+    position: relative;
+    left: 60px;
+}
+h3 {
+    position: relative;
+    left: 60px;
+    color: white;
+    font-size: x-large;
+    font-weight: 800;
+    font-family: 'Times New Roman', Times, serif;
+}
+img {
+    width: 100px;
+    height: 60px;
+    color: white;
+    position: relative;
+    left: 36px;
+    bottom: 330px;
+    border-radius: 100%;
+}
+h4 {
+    font-size: x-large;
+    font-weight: 600;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    position: relative;
+    left: 60px;
+    bottom: 58px;
+}
+button5 {
+    border-radius: 50%;
+}
